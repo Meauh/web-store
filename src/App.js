@@ -1,24 +1,33 @@
-import logo from './logo.svg';
 import './App.css';
+import burger from './icons/burger.svg'
+import triagles from './icons/triagles.svg'
+import squars from './icons/squars.svg'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+    <nav id="header">
+        <div class="header_container">
+            <input type="checkbox" name="" id="burger"/>
+            <label class="menu" for="burger">
+            <img src={burger} alt='burger'/> 
+            </label>
+            <div class="logo_container">
+                <h1>HPC</h1>
+            </div>
+            <ul class="navigation">
+                <a href="#"><li class="item">Home</li></a>
+                <a href="#"><li class="item">Lists</li></a>
+                <a href="#"><li class="item">Affiliat</li></a>
+                <a href="#"><li class="item">Contact</li></a>
+            </ul>
+        </div>
+    </nav>
+    <h1 id="hero">Horizon PC</h1>
+    <img src={triagles} id="triangles" class="illustr"/>
+    <img src={squars} id="squars" class="illustr"/>
+    
+    </>
   );
 }
 

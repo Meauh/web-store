@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="44.868" viewBox="0 0 60 44.868">
+  <line id="upp_line" data-name="upp line" x2="50" transform="translate(5 5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="10"/>
+  <line id="low_line" data-name="low line" x2="50" transform="translate(5 39.868)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="10"/>
+  <line id="mid_line" data-name="mid line" x2="50" transform="translate(5 22.434)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="10"/>
+</svg>
