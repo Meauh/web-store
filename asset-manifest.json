@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/web-store/static/css/main.d9277ab9.css",
+    "main.css": "/web-store/static/css/main.aac30e7b.css",
     "main.js": "/web-store/static/js/main.e618e2de.js",
     "static/js/787.7cab76f3.chunk.js": "/web-store/static/js/787.7cab76f3.chunk.js",
     "static/media/alata-regular.ttf": "/web-store/static/media/alata-regular.5c55953ad666e29a4d91.ttf",
@@ -8,12 +8,12 @@
     "static/media/triagles.svg": "/web-store/static/media/triagles.d2b83fb19bc3f7270ace0dcf7973147d.svg",
     "index.html": "/web-store/index.html",
     "static/media/burger.svg": "/web-store/static/media/burger.bd1604250f8d145650d8b645e993f1ff.svg",
-    "main.d9277ab9.css.map": "/web-store/static/css/main.d9277ab9.css.map",
+    "main.aac30e7b.css.map": "/web-store/static/css/main.aac30e7b.css.map",
     "main.e618e2de.js.map": "/web-store/static/js/main.e618e2de.js.map",
     "787.7cab76f3.chunk.js.map": "/web-store/static/js/787.7cab76f3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9277ab9.css",
+    "static/css/main.aac30e7b.css",
     "static/js/main.e618e2de.js"
   ]
 }
