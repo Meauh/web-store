@@ -28,6 +28,7 @@
     --second-color : #303030;
     --main-font: alata;
     --radius-1: 15px;
+    overflow: hidden;
 }
 body
 {
@@ -178,7 +179,7 @@ body::before
 #triangles
 {
     height: 40%;
-    bottom:-100px;
+    bottom: -100px;
     transform: rotate(135deg);
 }
 
